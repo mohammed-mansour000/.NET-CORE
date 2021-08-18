@@ -1,0 +1,12 @@
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.csprojAssemblyReference.cache
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.GeneratedMSBuildEditorConfig.editorconfig
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.AssemblyInfoInputs.cache
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.AssemblyInfo.cs
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.csproj.CoreCompileInputs.cache
+E:\Misc\core101\soulayman\bin\Debug\net5.0\soulayman.deps.json
+E:\Misc\core101\soulayman\bin\Debug\net5.0\soulayman.dll
+E:\Misc\core101\soulayman\bin\Debug\net5.0\ref\soulayman.dll
+E:\Misc\core101\soulayman\bin\Debug\net5.0\soulayman.pdb
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.dll
+E:\Misc\core101\soulayman\obj\Debug\net5.0\ref\soulayman.dll
+E:\Misc\core101\soulayman\obj\Debug\net5.0\soulayman.pdb

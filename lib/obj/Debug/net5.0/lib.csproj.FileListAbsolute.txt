@@ -1,0 +1,16 @@
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\lib.exe
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\lib.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\lib.runtimeconfig.json
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\lib.runtimeconfig.dev.json
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\lib.dll
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\ref\lib.dll
+C:\Users\Hamzi\Desktop\.NET-Core\lib\bin\Debug\net5.0\lib.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.csprojAssemblyReference.cache
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.AssemblyInfoInputs.cache
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.AssemblyInfo.cs
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.csproj.CoreCompileInputs.cache
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.dll
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\ref\lib.dll
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\lib\obj\Debug\net5.0\lib.genruntimeconfig.cache

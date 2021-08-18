@@ -1,0 +1,16 @@
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\week-8.exe
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\week-8.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\week-8.runtimeconfig.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\week-8.runtimeconfig.dev.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\week-8.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\week-8.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.csprojAssemblyReference.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.AssemblyInfoInputs.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.AssemblyInfo.cs
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.csproj.CoreCompileInputs.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.genruntimeconfig.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\AI.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\bin\Debug\netcoreapp3.1\AI.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\week-8\obj\Debug\netcoreapp3.1\week-8.csproj.CopyComplete

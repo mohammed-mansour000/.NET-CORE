@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "maroun/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/maroun.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/maroun.dll": {}
+        }
+      },
+      "soulayman/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/soulayman.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/soulayman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maroun/1.0.0": {
+      "type": "project",
+      "path": "../maroun/maroun.csproj",
+      "msbuildProject": "../maroun/maroun.csproj"
+    },
+    "soulayman/1.0.0": {
+      "type": "project",
+      "path": "../soulayman/soulayman.csproj",
+      "msbuildProject": "../soulayman/soulayman.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "maroun >= 1.0.0",
+      "soulayman >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rony\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Misc\\core101\\hiba\\hiba.csproj",
+      "projectName": "hiba",
+      "projectPath": "E:\\Misc\\core101\\hiba\\hiba.csproj",
+      "packagesPath": "C:\\Users\\Rony\\.nuget\\packages\\",
+      "outputPath": "E:\\Misc\\core101\\hiba\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\Misc\\core101\\maroun\\maroun.csproj": {
+              "projectPath": "E:\\Misc\\core101\\maroun\\maroun.csproj"
+            },
+            "E:\\Misc\\core101\\soulayman\\soulayman.csproj": {
+              "projectPath": "E:\\Misc\\core101\\soulayman\\soulayman.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

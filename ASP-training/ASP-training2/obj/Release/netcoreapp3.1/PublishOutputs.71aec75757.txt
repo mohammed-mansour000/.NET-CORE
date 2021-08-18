@@ -1,0 +1,7 @@
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\ASP-training2.exe
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\ASP-training2.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\ASP-training2.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\ASP-training2.runtimeconfig.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training2\bin\Release\netcoreapp3.1\publish\ASP-training2.pdb

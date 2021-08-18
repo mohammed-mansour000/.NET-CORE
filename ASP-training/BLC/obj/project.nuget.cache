@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BjNC9mRHQzrbuKObt0JQocqn98FjgsNMRtbzi0Oc9Ldohwf1cb0TRTEnO2FT2zGpMGiqC5YkRg04pjo6rQTHdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hamzi\\Desktop\\.NET-Core\\ASP-training\\BLC\\BLC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hamzi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hamzi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

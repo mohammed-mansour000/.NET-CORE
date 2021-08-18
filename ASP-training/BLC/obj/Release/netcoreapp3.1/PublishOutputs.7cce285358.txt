@@ -1,0 +1,5 @@
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\publish\BLC.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\publish\BLC.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\publish\BLC.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll

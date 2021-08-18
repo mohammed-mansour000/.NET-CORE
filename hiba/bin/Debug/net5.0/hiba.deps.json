@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hiba/1.0.0": {
+        "dependencies": {
+          "maroun": "1.0.0",
+          "soulayman": "1.0.0"
+        },
+        "runtime": {
+          "hiba.dll": {}
+        }
+      },
+      "maroun/1.0.0": {
+        "runtime": {
+          "maroun.dll": {}
+        }
+      },
+      "soulayman/1.0.0": {
+        "runtime": {
+          "soulayman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hiba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "maroun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "soulayman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

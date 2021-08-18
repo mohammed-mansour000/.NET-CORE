@@ -1,0 +1,12 @@
+E:\Misc\core101\maroun\bin\Debug\net5.0\maroun.deps.json
+E:\Misc\core101\maroun\bin\Debug\net5.0\maroun.dll
+E:\Misc\core101\maroun\bin\Debug\net5.0\ref\maroun.dll
+E:\Misc\core101\maroun\bin\Debug\net5.0\maroun.pdb
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.csprojAssemblyReference.cache
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.GeneratedMSBuildEditorConfig.editorconfig
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.AssemblyInfoInputs.cache
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.AssemblyInfo.cs
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.csproj.CoreCompileInputs.cache
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.dll
+E:\Misc\core101\maroun\obj\Debug\net5.0\ref\maroun.dll
+E:\Misc\core101\maroun\obj\Debug\net5.0\maroun.pdb

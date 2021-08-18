@@ -1,0 +1,13 @@
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\ASP-training-week-5.exe
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\ASP-training-week-5.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\ASP-training-week-5.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\ASP-training-week-5.runtimeconfig.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\ASP-training-week-5.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\BLC.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\ASP-training-week-5\bin\Release\net5.0\publish\BLC.pdb

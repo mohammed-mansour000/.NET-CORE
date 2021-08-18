@@ -1,0 +1,9 @@
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\BLC.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\BLC.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\bin\Release\netcoreapp3.1\BLC.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\obj\Release\netcoreapp3.1\BLC.csprojAssemblyReference.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\obj\Release\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\obj\Release\netcoreapp3.1\BLC.AssemblyInfo.cs
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\obj\Release\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\obj\Release\netcoreapp3.1\BLC.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ASP-training\BLC\obj\Release\netcoreapp3.1\BLC.pdb
