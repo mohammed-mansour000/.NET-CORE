@@ -1,0 +1,9 @@
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\bin\Debug\netcoreapp3.1\BLC.deps.json
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\bin\Debug\netcoreapp3.1\BLC.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\bin\Debug\netcoreapp3.1\BLC.pdb
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\obj\Debug\netcoreapp3.1\BLC.csprojAssemblyReference.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfo.cs
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\obj\Debug\netcoreapp3.1\BLC.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\BLC\obj\Debug\netcoreapp3.1\BLC.pdb

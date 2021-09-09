@@ -1,0 +1,42 @@
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.exe
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.deps.json
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.runtimeconfig.json
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.runtimeconfig.dev.json
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.dll
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.pdb
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\misc\core101\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.csprojAssemblyReference.cache
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.AssemblyInfoInputs.cache
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.AssemblyInfo.cs
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.csproj.CoreCompileInputs.cache
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.csproj.CopyComplete
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.dll
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.pdb
+E:\misc\core101\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.genruntimeconfig.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.exe
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.deps.json
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.runtimeconfig.json
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.runtimeconfig.dev.json
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\App20210728.pdb
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.csprojAssemblyReference.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.AssemblyInfoInputs.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.AssemblyInfo.cs
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.csproj.CoreCompileInputs.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.csproj.CopyComplete
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.pdb
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\obj\Debug\netcoreapp3.1\App20210728.genruntimeconfig.cache
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\BLC.dll
+E:\hamzi C\Full-Stack\database\week-3\app\App20210728\App20210728\bin\Debug\netcoreapp3.1\BLC.pdb
