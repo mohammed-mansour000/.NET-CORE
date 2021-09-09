@@ -8,16 +8,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Main Thread : {Thread.CurrentThread.ManagedThreadId} Statred");
-            Task task1 = new Task(PrintCounter);
-            task1.Start();
-            task1.Wait();  
-            Console.WriteLine($"Main Thread : {Thread.CurrentThread.ManagedThreadId} Completed");
-            Console.ReadKey();
+            //Console.WriteLine($"Main Thread : {Thread.CurrentThread.ManagedThreadId} Statred");
+            //Task task1 = new Task(PrintCounter);
+            //task1.Start();
+            //task1.Wait();  
+            //Console.WriteLine($"Main Thread : {Thread.CurrentThread.ManagedThreadId} Completed");
+            //Console.ReadKey();
 
-            //  Method2();
-            //Method1();
-            //  Method3();
+            Method1();
+            Method2();
+            Method3();
 
             //Console.WriteLine("Finished");
             //Console.WriteLine("Finished2");

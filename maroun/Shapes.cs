@@ -38,7 +38,7 @@ namespace antoun.maroun.com
         {
             if (this.width != this.height)
             {
-                Console.WriteLine("A Square has to have the same with & hight");
+                Console.WriteLine("A Square has to have the same width & hight");
                 return 0; // <-- this a smart way to stop the execution of a certain function
             }
             return this.width * this.height;
