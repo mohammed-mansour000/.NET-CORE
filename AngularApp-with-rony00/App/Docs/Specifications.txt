@@ -1,0 +1,17 @@
+*. 2 Courts
+*. registration 24/7
+*. Payer who calls to book a certain game
+*. 1 Game : 35,000 LBP
+*. Scheduled Booking (ex: Each Week)
+*. Fees
+*. Offers (ex: each 3 bookings you will get 1 free)
+*. Financial Report (between 2 dates)
+*. No Booking overlapping
+
+--Business Entities
+--------------------------------------
+*. Subscriber
+*. Booking
+*. Financial Tx
+*. Fees
+--------------------------------------

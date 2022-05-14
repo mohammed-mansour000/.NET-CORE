@@ -1,0 +1,14 @@
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\BLC.deps.json
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\BLC.dll
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\BLC.pdb
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfo.cs
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.dll
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.pdb
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.csprojAssemblyReference.cache
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\DALC.dll
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\Entities.dll
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\DALC.pdb
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\.NET-Core\AngularApp-with-rony00\App\Sln_BROAPP\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CopyComplete
